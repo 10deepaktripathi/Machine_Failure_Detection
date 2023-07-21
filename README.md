@@ -1,5 +1,5 @@
 # Machine_Failure_Detection
-The dataset for this competition (both train and test) was generated from a deep learning model trained on the Machine Failure Predictions. Feature distributions are close to, but not exactly the same, as the original
+The dataset for this task (both train and test) was generated from a deep learning model trained on the Machine Failure Predictions. Feature distributions are close to, but not exactly the same, as the original
 
 ## Directory Structure
 - [eda-featureengineering-prediction.ipynb](./eda-featureengineering-prediction.ipynb):Notebook contains comparitive study about various statistical ways of comingup with importent features a comparitive study among multiple models.
